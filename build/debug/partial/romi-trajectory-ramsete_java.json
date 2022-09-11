@@ -1,0 +1,16 @@
+[
+  {
+    "name": "romi-trajectory-ramsete (in project romi-trajectory-ramsete)",
+    "file": "D:\\Robotics\\romi-examples\\romi-trajectory-ramsete\\build\\libs\\romi-trajectory-ramsete.jar",
+    "extensions": [
+      "D:\\Robotics\\romi-examples\\romi-trajectory-ramsete\\build\\tmp\\expandedArchives\\halsim_gui-2021.1.2-windowsx86-64.zip_a65f029882460810c7d9fdb675bf2f07\\windows\\x86-64\\shared\\halsim_gui.dll",
+      "D:\\Robotics\\romi-examples\\romi-trajectory-ramsete\\build\\tmp\\expandedArchives\\halsim_ds_socket-2021.1.2-windowsx86-64.zip_f20bc948dbaa43f185b274998a8d049b\\windows\\x86-64\\shared\\halsim_ds_socket.dll",
+      "D:\\Robotics\\romi-examples\\romi-trajectory-ramsete\\build\\tmp\\expandedArchives\\halsim_ws_client-2021.1.2-windowsx86-64.zip_498fdbe1425ae52f1473778ab115042e\\windows\\x86-64\\shared\\halsim_ws_client.dll"
+    ],
+    "env": {
+      "HALSIMWS_HOST": "192.168.1.194"
+    },
+    "librarydir": "D:\\Robotics\\romi-examples\\romi-trajectory-ramsete\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
